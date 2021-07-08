@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Website Rumah Sakit</title>
+    <title>Website_siwikode</title>
 
     <!-- Custom fonts for this template-->
     <link href="<?= base_url('asset/fontawesome-free/css/all.min.css') ?>" rel="stylesheet" type="text/css">
